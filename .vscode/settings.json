@@ -1,0 +1,7 @@
+{
+    "smoothtype.autoReload": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "line-thin",
+    "smoothtype.duration": 75
+}
